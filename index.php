@@ -4,6 +4,6 @@
 	<title>main</title>
 </head>
 <body>
-<p>HELLO WORLD</p>
+<p>Hello world!</p>
 </body>
 </html>

@@ -4,6 +4,6 @@
 	<title>IP</title>
 </head>
 <body>
-<p>192.168.0.255</p>
+<p>89.128.240.252</p>
 </body>
 </html>
